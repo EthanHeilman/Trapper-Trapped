@@ -1,0 +1,36 @@
+if (instance_exists(player)) {
+    if ((point_distance(x, y, player.x, player.y) < 128) && (!stalking)) {
+        targetx = player.x;
+        targety = player.y;
+        move_towards_point (player.x, player.y, 5);
+        stalking = 1;
+    }
+    if (((x == targetx) || (y == targety)) && (stalking)) {
+        if (point_distance(x, y, player.x, player.y) < 128) {
+             move_towards_point (player.x, player.y, 5);   
+        }
+        else {
+            switch (random(4)) {
+                case 0:
+                    vspeed = 0;
+                    hspeed = 5;
+                    break;
+                case 1:
+                    vspeed = 5;
+                    hspeed = 0;
+                    break;
+                case 2:
+                    vspeed = 0;
+                    hspeed = -5;
+                    break;
+                default:
+                    vspeed = -5;
+                    hspeed = 0;
+                    break;
+            }
+            move_snap (32, 32);
+            stalking = 0;
+        }
+    }
+}
+
