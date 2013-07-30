@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="32"
+   height="32"
+   id="svg5072"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="boneshard-inv.svg"
+   inkscape:export-filename="C:\Users\colin\Dropbox\Iamagamer2013\art\boneshard-inv-hi.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs5074" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="15.839192"
+     inkscape:cx="19.238791"
+     inkscape:cy="14.994406"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1218"
+     inkscape:window-height="778"
+     inkscape:window-x="54"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3104" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5077">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-1020.3622)">
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#ffff00"
+       id="rect3226"
+       width="30"
+       height="30"
+       x="1"
+       y="1"
+       transform="translate(0,1020.3622)" />
+    <path
+       style="fill:#c8b7b7;stroke:none"
+       d="m 11.086733,1037.1833 -5.2172847,10.3766 c 0,0 -1.4228956,-0.4151 -1.8971943,0.7471 -0.4742985,1.1621 -0.4742985,2.9885 0.8695473,2.9054 1.343846,-0.083 1.9762441,0.8302 3.4781896,-2.4903 1.5019455,-3.3205 6.1658821,-13.033 6.1658821,-13.033 l -2.766742,2.9884 0.23715,-1.5773 z"
+       id="path5080"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#c8b7b7;stroke:none"
+       d="m 16.730874,1034.5073 0.921025,-1.7134 -1.208846,0.8862 -0.518077,-1.7134 c 0,0 10.016159,-6.6766 9.901031,-6.4402 -0.115128,0.2363 0.05756,-1.8317 2.014745,-1.8908 1.957181,-0.059 2.878208,0.5318 2.532822,1.4181 -0.345385,0.8862 0.460513,0.8862 0.69077,1.5362 0.230257,0.6499 -1.381539,0.8862 -2.302566,0.768 -0.921026,-0.1181 -1.093718,0.059 -1.093718,0.059 z"
+       id="path5082"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccssssscc" />
+    <path
+       style="fill:#c8b7b7;stroke:none"
+       d="m 21.969209,1035.1573 -8.231671,11.817 2.820643,-1.8316 0.287821,0.8271 1.036154,-0.059 8.289236,-12.3488 -1.611796,1.2408 -0.402948,-1.5362 -1.036155,1.6544 -0.805898,-0.709 z"
+       id="path5084"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Georgia;-inkscape-font-specification:Georgia"
+       x="2.9041884"
+       y="11.544411"
+       id="text3096"
+       sodipodi:linespacing="125%"
+       transform="translate(0,1020.3622)"><tspan
+         sodipodi:role="line"
+         id="tspan3098"
+         x="2.9041884"
+         y="11.544411" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:36px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Georgia;-inkscape-font-specification:Georgia"
+       x="2"
+       y="1027.3622"
+       id="text3100"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3102"
+         x="2"
+         y="1027.3622"
+         style="font-size:10px;fill:#ff0000">1</tspan></text>
+  </g>
+</svg>
