@@ -117,18 +117,18 @@ self.stunned = false;
     if (self.stalking == true) {
     
         if( (point_distance(x, y, player.x, player.y) &lt; 32*5) &amp;&amp; (point_distance(x, y, player.x, player.y) &gt; 32*3)  ) {
-            if ( abs( self.x - player.x ) &lt;64  ) { move_towards_point(player.x, player.y, 10);  }   
-            if ( abs( self.y - player.y ) &lt;64  ) { move_towards_point(player.x, player.y, 10);  }
+            if ( abs( self.x - player.x ) &lt;64  ) { move_towards_point(player.x, player.y, 7);  }   
+            if ( abs( self.y - player.y ) &lt;64  ) { move_towards_point(player.x, player.y, 7);  }
         }
     
         if (self.stunned == true) {
             if (random(10) &lt; 1 ) {
-                move_towards_point (player.x, player.y, 7); 
+                move_towards_point (player.x, player.y, 4); 
                 self.stunned = false;
             }
         } else {
             if (random(5) &lt; 1 ) {
-                move_towards_point (player.x, player.y, 7); 
+                move_towards_point (player.x, player.y, 4); 
             }
         }
     }
